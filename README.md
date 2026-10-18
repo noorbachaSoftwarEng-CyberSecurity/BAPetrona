@@ -142,3 +142,8 @@ The system can be adapted for:
 ---
 
 Developed by Noor Ullah Bacha
+
+# 📌 Source Code Availability & Disclaimer
+This repository is shared for portfolio and educational showcase purposes only, highlighting the project's features and functionality through screenshots and descriptions.
+
+The complete source code is not publicly available but may be provided upon request for professional or recruitment purposes, subject to applicable confidentiality restrictions.
